@@ -1,0 +1,4 @@
+Fichero de entrada: lena512x512.raw
+Fichero de salida: lenaMediana.raw
+Tipo de proceso: MEDIANA
+Tiempo de ejecucion: 129.000000

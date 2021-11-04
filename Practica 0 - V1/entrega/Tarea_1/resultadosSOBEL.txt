@@ -1,4 +1,0 @@
-Fichero de entrada: lena512x512.raw
-Fichero de salida: lenaSOBEL.raw
-Tipo de proceso: SOBEL
-Tiempo de ejecucion: 120.000000

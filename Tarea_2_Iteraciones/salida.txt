@@ -1,0 +1,11 @@
+Numero de iteraciones: 5 
+Nombre fichero salida: salida.txt 
+Valores absolutos: 
+Iteracion 0: No se aplica 
+Iteracion 1: -77292043997982.953 
+Iteracion 2: -10466479.866 
+Iteracion 3: 5797771.893 
+Iteracion 4: -9942663.486 
+Tiempo(milisengundos) de generacion de matriz:  32.000000 
+Teimpo(milisengundos) de ejecucion:  24.000000 
+Tiempo(milisengundos) global:  59.000000 
